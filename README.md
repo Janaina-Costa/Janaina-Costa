@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Janaina-Costa
-- 👀 I’m interested in linguagem de programação, em especial JavaScript pela qual tenho um amor que hibernou por um tempo e agora acordou de vez.
-- 🌱 I’m currently learning JS , HTML e CSS
+- 👋 Sou Janaina
+- 👀Tenho interesse em linguagem de programação, em especial JavaScript pela qual tenho um amor que hibernou por um tempo e agora acordou de vez.
+- 🌱 I’m currently...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
