@@ -1,6 +1,6 @@
 👩🏾‍💻 Ola, Eu sou Janaina Costa
 
-## 🌱 Amoo estudar: JavaScript, HTML, CSS, React JS, Redux.............👩🏾‍💻💻❤️💕
+## 🌱 Estudante de Análise e Desenvolvimento de Sistemas com foco em  JavaScript, HTML, CSS, React JS,NodeJS e Banco de Dados.............👩🏾‍💻💻❤️💕
 
 
 <div align="center" >
